@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  manufacturer: MyString
+  truck_type: MyString
+  model: MyString
+  weight: 9.99
+
+two:
+  manufacturer: MyString
+  truck_type: MyString
+  model: MyString
+  weight: 9.99
